@@ -14,8 +14,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: (https://www.linkedin.com/in/mohammad-heidari/)
+[<img align="left" alt="JoshMadakor | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[linkedin]: https://www.linkedin.com/in/mohammad-heidari/
+
+  <br /><br /><br />
 
 Here are some ideas to get you started:
 
