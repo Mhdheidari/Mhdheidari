@@ -16,7 +16,8 @@
 - **Master of Engineering in Electrical and Computer (Networking and Security), Grade A+**  
   - Sep 2022 - Dec 2023  
   - University of Waterloo, Waterloo, Canada
-
+    [
+(https://i.imgur.com/n0zLsuq.jpeg)
 - **Bachelor’s degree in Electrical and Electronics Engineering (evaluated by WES), Grade A**  
   - Sep 2003 - Feb 2007  
   - Azad University, Karaj, Iran
@@ -42,9 +43,6 @@
 
   <br /><br /><br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning:
    ## Online Courses
 
