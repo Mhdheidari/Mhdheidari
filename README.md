@@ -8,7 +8,7 @@
   - [FIM (File Integrity Monitor)](https://github.com/Mhdheidari/FIM-Hashing-Email)
     
 - <b>IOT</b>
-  - [Smart Home Automation Systems with MQTT, Raspberry Pi, and Arduino ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Smart Home Automation Systems with MQTT, Raspberry Pi, and Arduino ](https://github.com/Mhdheidari/Smart-Home-Automation-Systems-with-MQTT-Raspberry-Pi-and-Arduino)
  
 <h2>👨‍💻 Education and Certification:</h2>
 
